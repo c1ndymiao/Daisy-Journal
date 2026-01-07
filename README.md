@@ -1,5 +1,5 @@
-# Daisy-Journal
-# Instructions
+# Daisy
+### Instructions
 
 Welcome to Daisy!
 
