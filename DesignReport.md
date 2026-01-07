@@ -1,12 +1,4 @@
 
-### Introduction
-
-Daisy is a daily wellness journal designed to help users track and reflect on their wellbeing. It allows users to write daily entries to log their mood, water intake, hours of sleep and a gratitude statement. By spending a few minutes for self-reflection, users are encouraged to gain clarity on their thoughts and identity patters in their lifestyle habits. Daisy aims to help users implement healther routines such as consistent sleep schedules and adequate hydration.
-
-This project was inspired from my own journaling habits. During the pandemic, when days felt slow yet, months passed by quickly, documenting my thoughts and feelings helped me stay grounded. Reflecting and practising gratitude every night before bed taught me to appreciate the small moments and see the bigger picture. I could see my growth as a person, starting my days with intention and setting a positive outlook.
-
-With Daisy, I wished to recreate that experience in a digital program.
-
 ### Design
 
 When designing Daisy's software, I started with structuring the program around the two core features:
